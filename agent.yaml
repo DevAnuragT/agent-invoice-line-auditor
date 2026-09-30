@@ -1,0 +1,11 @@
+spec_version: "0.1.0"
+name: invoice-line-auditor
+version: 0.1.0
+description: "Recalculates invoice subtotal, tax, and total from structured line items and compares the result with a stated total. It exposes line-level arithmetic for review."
+skills:
+  - invoice-line-auditor-skill
+tools:
+  - audit-invoice-line-auditor
+tags:
+  - "finance-operations"
+  - evidence-driven
